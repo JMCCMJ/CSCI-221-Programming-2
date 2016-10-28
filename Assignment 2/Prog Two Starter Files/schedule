@@ -1,0 +1,19 @@
+; This datafile contains train schedule information for
+; trains departing from Linz, Austria and arriving in major
+; cities in other parts of Europe.
+; 
+; The format is as follows: each destination consists of two
+; lines of data, the first line is the destination name, the
+; second line is '|' separated pairs of departure and arrival
+; times. The departure and arrival time is ',' separated.
+;
+Zurich
+0913,1620|1113,1820|1313,2020|2313,0620
+Rome
+0748,2010|0913,2220|1913,0809|1933,0905
+Paris
+0954,2125|1754,0658|2233,1028
+Prague
+0614,1057|0721,1239|0935,1439|1308,1839|1654,2138|1813,2358
+Munich
+0130,0621|0510,0913|0631,1018|0753,1033|0954,1230|1133,1430|1333,1630
