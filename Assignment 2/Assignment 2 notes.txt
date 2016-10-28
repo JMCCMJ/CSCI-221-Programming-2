@@ -1,1 +1,0 @@
-use timedetail to set up arrays for arrival and departure times for the imported file.
