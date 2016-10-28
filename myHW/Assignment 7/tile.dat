@@ -1,0 +1,21 @@
+; This is a comment
+; File contains records that identify polylines
+;
+; Each series of points is separated by a line that starts with s
+m 0,0
+l 0,120
+m 40,0
+l 40,120
+m 80,0
+l 80,120
+m 120,0
+l 120,120
+m 0,0
+l 120,0
+m 0,40
+l 120,40
+m 0,80
+l 120,80
+m 0,120
+l 120,120
+s

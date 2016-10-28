@@ -1,0 +1,19 @@
+; This is a comment
+; File contains records that identify polylines
+;
+; Each series of points starts with a 'm'oveTo line and ends
+; with a 's'top line
+m -8, -12
+c 128, 128, 255
+l 0, 12
+l 8, -12
+s
+m 8, -12
+c 255, 128, 128
+l -12, 2
+l 12, 2
+s
+m 12, 2
+c 128, 255, 128
+l -8, -12
+s
